@@ -1,6 +1,7 @@
 # ecommerce_app
 
-A new Flutter project.
+Chalage 30 day 30 app.
+Day 2/30
 
 ## Getting Started
 
