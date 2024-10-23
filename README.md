@@ -1,7 +1,7 @@
 # ecommerce_app
 
 Chalage 30 day 30 app.
-Day 4/30
+Day 4/30.
 
 ## Getting Started
 
